@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=CodificadorMensajesTest
+comment0.text=\r\n\ The\ test\ class\ CodificadorMensajesTest.\r\n\r\n\ @author\ \ Nahuel\ Galeano\r\n\ @version\ v0.1\r\n
+comment1.params=
+comment1.target=void\ stringPosCeroVacio()
+comment1.text=\r\n\ Comprueba\ que\ el\ mensaje\ en\ la\ linea\ 0\ no\ sea\ un\ mensaje\ vacio.\r\n\ Ya\ que\ al\ codificar\ el\ mensaje\ con\ el\ Codigo\ 0\ nos\ retorna\ el\ mismo\ mensaje.\r\n
+numComments=2
